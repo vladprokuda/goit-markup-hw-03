@@ -248,7 +248,7 @@ header {
 }
 
 .section-two-list li{
-    width: calc((100% - 90px) / 4);
+    width: 270px;
 }
 
 .section-two-list .title {
