@@ -317,12 +317,14 @@ header {
     line-height: 1.18;
     letter-spacing: 0.03em;
     margin-bottom: 10px;
-    padding-top: 30px;
+}
+
+.section-four-list .name {
+    padding: 30px 0;
 }
 
 .section-four p {
     font-size: 16px;
-    padding-bottom: 30px;
 }
 
 /*----------css portfolio----------*/
